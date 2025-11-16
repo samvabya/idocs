@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const String serverUrl = 'https://z126gbzs-5000.inc1.devtunnels.ms';
+const String serverUrl = 'http://localhost:5000';
 
 void showSnackBar(String message, BuildContext context) {
   final snackBar = SnackBar(
